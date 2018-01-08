@@ -1,2 +1,3 @@
+
 # python-timer
-Monitor the overall time for Python scripts
+Monitor time for Python code. Return cumulated count and time took
