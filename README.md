@@ -12,7 +12,7 @@ You can install it with pip:
 
 Usage:
 
-    >>> PTymer.PythonTimer import PythonTimer
+    >>> PythonSimpleTimer.PythonTimer import PythonTimer
     >>> my_timer = PythonTimer()
     >>> my_timer.start('timer_name')
     >>> -- process stuff --
