@@ -9,7 +9,7 @@ setup(
     packages=find_packages(),
     author="Znax & reco team",
     description="Monitor time for Python code",
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     include_package_data=True,
     url='https://github.com/Znax/python-simple-timer',
     license="WTFPL"

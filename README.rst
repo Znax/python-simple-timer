@@ -8,7 +8,7 @@ if they were in a loop, how many loops the ran into.
 
 You can install it with pip:
 
-    pip install python-simple-timer
+    pip install pstymer
 
 Usage:
 
