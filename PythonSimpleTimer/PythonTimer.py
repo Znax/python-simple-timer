@@ -8,7 +8,7 @@
  
     Usage:
  
-    >>> PythonSimpleTimer.PythonTimer import PythonTimer
+    >>> from PythonSimpleTimer.PythonTimer import PythonTimer
     >>> my_timer = PythonTimer()
     >>> my_timer.start('timer_name')
     >>> -- process stuff --
