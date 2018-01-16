@@ -1,6 +1,8 @@
-
+import sys
 import time
-from PythonTimer import PythonTimer
+
+sys.path.append("../")
+from PythonSimpleTimer.PythonTimer import PythonTimer
 
 # instanciate PythonTimer
 my_timer = PythonTimer()
@@ -20,7 +22,7 @@ for loop in [0.1, 0.2, 0.3]:
 # if multiple lines, will cumulate the result
 for num in range(50000):
     my_timer.start('range')
-    print(num)
+    # print(num)
     my_timer.stop('range')
 
 
